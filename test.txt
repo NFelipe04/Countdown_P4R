@@ -1,0 +1,107 @@
+"""
+                Story of revival, kicking off
+                On a tightrope, killers ahead
+                (Yeah, naked truth lies)
+                Don't blink, the wind's shiftin', feel it
+                All in, high stakes, no doubt we'll win
+                Burn you all now, ash is what you'll be
+                
+                Gon' punk you out, we own this ground
+                Bear down, gear up, backup's ride or die
+                Too late to beg, accept your fate, checkmate
+                (Blow them outta here)
+                
+                Prime time, golden hour show
+                High-five moment of our own
+                Onward to the rainbow, get ready for our expedition
+                Hands in circle, let it go
+                Through the smoke and fog
+                Take a chance, seek out the truth, say it now, make it true
+                
+                Overdose of sensation
+                (Feeding off friction; Adrenaline addiction)
+                Red light runnin', racin' real, raw rush
+                Pedal to the metal, to the bellow through the yellow
+                Blue skies are the limit, limit breakin' ground, shakin' high
+                
+                I'm dangerous, contagiou-rous
+                Voraciou-rous, rizzin' up the mind
+                Audaciou-rous, I'm victorious tonight
+                (Reachin' for the truth)
+                
+                Prime time, golden hour show
+                Feels good, let the numbers blow
+                Give me Hell, live to tell, screw it, rules are for breakin' anyway
+                Prime time, golden hour show (Yeah)
+                Let the signal kick in
+                Turn it up, we amplify, risk it all, born to fly
+                
+                Kill one, more appear, blink once and it's gone
+                But I push through the dark, fightin' on
+                Running, chasing, climb and fly
+                Morning rolls around, we are here
+                (Break the ceiling down)
+                
+                Prime time, golden hour glow
+                Slipped right under, stole the show
+                Onward to the rainbow, we can choose our own living way
+                Off the radar on our own (Yeah)
+                Progress through the unknowns
+                Round and round, seek out the truth, round and round, don't stop, youth
+                
+                (Yeah, naked truth lies)"""
+""" 
+NOTA
+
+colocar um arquivo de audio com a musica de prime time golden hour
+pra tocar com o texto da musica quando acabar o countdown 
+"""
+
+"""DATA ATUAL
+    ↓
+DATA DO LANÇAMENTO
+    ↓
+diferença entre as duas
+    ↓
+dias / horas / minutos / segundos
+    ↓
+atualizar a cada 1 segundo"""
+
+"""
+efeito de televisão;
+scanlines;
+glitch;
+animações;
+fonte semelhante à identidade visual de Persona;
+background animado;
+contador de dias/horas/minutos/segundos;
+efeito sonoro opcional;
+tela de "NOW PLAYING" quando chegar a zero;
+botão para ativar/desativar efeitos;
+calendário mostrando a data;
+efeito do Midnight Channel.
+"""
+"""
+                 PERSONA 4
+                  REVIVAL
+
+              170
+             DAYS
+
+       08 : 42 : 31
+
+       FEBRUARY 18, 2027
+
+          [ MIDNIGHT CHANNEL ]
+"""
+"""┌──────────────────────────────────────────┐
+│                                          │
+│          PERSONA 4 REVIVAL               │
+│                                          │
+│              170 DAYS                    │
+│                                          │
+│       08 HOURS  42 MINUTES  31 SEC       │
+│                                          │
+│             18.02.2027                   │
+│                                          │
+└──────────────────────────────────────────┘"""
